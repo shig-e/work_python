@@ -13,7 +13,7 @@ load_dotenv('.env')
 
 RAKUTEN_API_URL = "https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170706"
 
-APP_ID = '1051024108061023403'
+
 
 def main():
     # 課題1
