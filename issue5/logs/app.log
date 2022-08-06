@@ -1,0 +1,126 @@
+2022-08-06 06:06:54,196 [INFO] __main__ (line:38) | Start
+2022-08-06 06:06:54,197 [INFO] WDM (line:26) | 
+
+2022-08-06 06:06:54,197 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 06:06:54,334 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 06:06:54,334 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 06:06:54,629 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 06:08:03,441 [INFO] __main__ (line:38) | Start
+2022-08-06 06:08:03,442 [INFO] WDM (line:26) | 
+
+2022-08-06 06:08:03,442 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 06:08:03,554 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 06:08:03,554 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 06:08:03,700 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 11:29:26,015 [INFO] __main__ (line:38) | Start
+2022-08-06 11:29:26,016 [INFO] WDM (line:26) | 
+
+2022-08-06 11:29:26,016 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 11:29:26,175 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 11:29:26,198 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 11:29:26,436 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 11:29:36,857 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:29:38,063 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:29:38,450 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:40:43,894 [INFO] __main__ (line:38) | Start
+2022-08-06 11:40:43,895 [INFO] WDM (line:26) | 
+
+2022-08-06 11:40:43,896 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 11:40:44,045 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 11:40:44,045 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 11:40:44,286 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 11:40:54,503 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:40:55,326 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:40:55,674 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:49:50,391 [INFO] __main__ (line:38) | Start
+2022-08-06 11:49:50,392 [INFO] WDM (line:26) | 
+
+2022-08-06 11:49:50,393 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 11:49:50,601 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 11:49:50,602 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 11:49:50,794 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 11:49:59,903 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:50:00,127 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:50:00,877 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:50:01,200 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:54:29,358 [INFO] __main__ (line:38) | Start
+2022-08-06 11:54:29,358 [INFO] WDM (line:26) | 
+
+2022-08-06 11:54:29,359 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 11:54:29,500 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 11:54:29,501 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 11:55:44,699 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 11:55:55,895 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:55:56,136 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:55:57,206 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 11:55:57,588 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:01:26,228 [INFO] __main__ (line:38) | Start
+2022-08-06 12:01:26,229 [INFO] WDM (line:26) | 
+
+2022-08-06 12:01:26,229 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 12:01:26,395 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 12:01:26,396 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 12:01:26,782 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 12:01:39,212 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:01:39,497 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:01:40,292 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:01:40,821 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:02:42,449 [INFO] __main__ (line:38) | Start
+2022-08-06 12:02:42,449 [INFO] WDM (line:26) | 
+
+2022-08-06 12:02:42,449 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 12:02:42,574 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 12:02:42,574 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 12:02:42,808 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 12:02:54,047 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:02:54,780 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:02:55,207 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:06:27,051 [INFO] __main__ (line:38) | Start
+2022-08-06 12:06:27,053 [INFO] WDM (line:26) | 
+
+2022-08-06 12:06:27,053 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 12:06:27,312 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 12:06:27,312 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 12:06:27,684 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 12:06:39,676 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:06:40,323 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:06:40,724 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:07:26,953 [INFO] __main__ (line:38) | Start
+2022-08-06 12:07:26,953 [INFO] WDM (line:26) | 
+
+2022-08-06 12:07:26,953 [INFO] WDM (line:26) | ====== WebDriver manager ======
+2022-08-06 12:07:27,101 [INFO] WDM (line:26) | Current google-chrome version is 103.0.5060
+2022-08-06 12:07:27,102 [INFO] WDM (line:26) | Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-06 12:07:27,270 [INFO] WDM (line:26) | Driver [/Users/mayu/.wdm/drivers/chromedriver/mac64/103.0.5060.134/chromedriver] found in cache
+2022-08-06 12:07:37,074 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:07:37,214 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:07:37,975 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
+2022-08-06 12:07:38,514 [ERROR] chrome_driver (line:69) | Failed to get target element!
+NoneType: None
