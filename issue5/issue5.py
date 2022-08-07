@@ -38,14 +38,14 @@ def main():
     logger.info("Start")
 
     chrome_driver = ChromeDriver()
-    output = Output()
-    df = pd.DataFrame()
+    output = Output("lancers")
+     
     
     chrome_driver.open_url(
         "https://www.lancers.jp/work/search?open=1&ref=header_menu")
     sleep(3)
     
-    
+    data = []
     elements =[]
     chrome_driver.get_elements("div.c-media__content > div.c-media__content__right", elements)
     for elem in elements:
@@ -56,20 +56,16 @@ def main():
             _name = chrome_driver.get_text(elem, "div.c-media__job-lancer-status__right.c-media__thumbnail.c-avatar.c-avatar--small")
             name = _name.replace("\n", " ")
             name_url = chrome_driver.item_get_url(elem, "div.c-media__job-lancer-status__right.c-media__thumbnail.c-avatar.c-avatar--small > a")
-            df = df.append({
+            data.append({
                 "記事タイトル": title,
                 "記事URL": item_url,
                 "記事制作者": name,
-                "制作者URL": name_url},
-                ignore_index=True)
-            
+                "制作者URL": name_url})
         except Exception as e:
             print(e)
-    # output.write_csv("lancers_production", df)
-    df.to_csv("a", encoding="utf-8")
-        
-            
-   
+    df = pd.DataFrame.from_dict(data, dtype=object)
+    output.write_csv(df) 
+    
     # 以下に続きを実装してみよう！
 
     chrome_driver.close_driver()
